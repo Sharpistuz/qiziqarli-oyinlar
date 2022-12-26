@@ -1,0 +1,15 @@
+C:\Users\Samandar\source\repos\misollar\misollar\bin\Debug\net6.0\misollar.exe
+C:\Users\Samandar\source\repos\misollar\misollar\bin\Debug\net6.0\misollar.deps.json
+C:\Users\Samandar\source\repos\misollar\misollar\bin\Debug\net6.0\misollar.runtimeconfig.json
+C:\Users\Samandar\source\repos\misollar\misollar\bin\Debug\net6.0\misollar.dll
+C:\Users\Samandar\source\repos\misollar\misollar\bin\Debug\net6.0\misollar.pdb
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\misollar.csproj.AssemblyReference.cache
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\misollar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\misollar.AssemblyInfoInputs.cache
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\misollar.AssemblyInfo.cs
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\misollar.csproj.CoreCompileInputs.cache
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\misollar.dll
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\refint\misollar.dll
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\misollar.pdb
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\misollar.genruntimeconfig.cache
+C:\Users\Samandar\source\repos\misollar\misollar\obj\Debug\net6.0\ref\misollar.dll
